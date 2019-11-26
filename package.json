@@ -1,0 +1,24 @@
+{
+  "name": "study-graphql",
+  "version": "1.0.0",
+  "description": "学习GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "dev": "graphpack",
+    "build": "graphpack build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuhaohao1234/study-graphQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuhaohao1234/study-graphQL/issues"
+  },
+  "homepage": "https://github.com/wuhaohao1234/study-graphQL#readme",
+  "devDependencies": {
+    "graphpack": "^1.0.9"
+  }
+}
